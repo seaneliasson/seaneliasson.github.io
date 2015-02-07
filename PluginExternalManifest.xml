@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <plugins>
 	<plugin version="0.5" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.5.dpk" />
+	<plugin version="0.5.1" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.5.1.dpk" />
 </plugins>
