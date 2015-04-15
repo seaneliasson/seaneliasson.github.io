@@ -1,14 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <plugins>
-	<plugin version="0.5" framework="1" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.5.dpk" />
-	<plugin version="0.5.1" framework="1" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.5.1.dpk" />
-	<plugin version="0.5.3" framework="1" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.5.3.dpk" />
-	<plugin version="0.5.4" framework="1" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.5.4.dpk" />
-	<plugin version="0.6" framework="1" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.6.dpk" />
-	<plugin version="0.6.1" framework="1" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.6.1.dpk" />
-	<plugin version="0.7" framework="1" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.7.dpk" />
-	<plugin version="0.6.2" framework="1" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.6.2.dpk" />
-	<plugin version="0.7.2" framework="1" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.7.2.dpk" />
-	<plugin version="0.6.3" framework="1" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.6.3.dpk" />
-	<plugin version="1" framework="1" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1.dpk" />
+	<plugin version="0.5" minimumframeworkversion="0" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.5.dpk" production="false" />
+	<plugin version="0.5.1" minimumframeworkversion="0" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.5.1.dpk" production="false" />
+	<plugin version="0.5.3" minimumframeworkversion="0" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.5.3.dpk" production="false" />
+	<plugin version="0.5.4" minimumframeworkversion="0" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.5.4.dpk" production="false" />
+	<plugin version="0.6" minimumframeworkversion="0" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.6.dpk" production="false" />
+	<plugin version="0.6.1" minimumframeworkversion="0" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.6.1.dpk" production="false" />
+	<plugin version="0.7" minimumframeworkversion="0" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.7.dpk" production="false" />
+	<plugin version="0.6.2" minimumframeworkversion="0" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.6.2.dpk" production="false" />
+	<plugin version="0.7.2" minimumframeworkversion="0" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.7.2.dpk" production="false" />
+	<plugin version="0.6.3" minimumframeworkversion="0" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-0.6.3.dpk" production="false" />
+	<plugin version="1" minimumframeworkversion="0" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1.dpk" production="false" />
+	<plugin version="2" minimumframeworkversion="2" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-2.dpk" production="true" />
 </plugins>
