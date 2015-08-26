@@ -30,4 +30,5 @@
 	<plugin version="1006" minimumframeworkversion="9" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1006.dpk" production="true" />
 	<plugin version="1007" minimumframeworkversion="9" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1007.dpk" production="false" />
 	<plugin version="1008" minimumframeworkversion="9" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1008.dpk" production="true" />
+	<plugin version="1009" minimumframeworkversion="9" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1009.dpk" production="false" />
 </plugins>
