@@ -102,4 +102,11 @@
 	<plugin version="1105" minimumframeworkversion="28" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1105.dpk" production="true" />
 	<plugin version="1106" minimumframeworkversion="30" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1106.dpk" production="true" />
 	<plugin version="1107" minimumframeworkversion="30" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1107.dpk" production="true" />
+	<plugin version="1200" minimumframeworkversion="40" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1200.dpk" production="true" />
+	<plugin version="1201" minimumframeworkversion="40" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1201.dpk" production="true" />
+	<plugin version="1202" minimumframeworkversion="40" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1202.dpk" production="true" />
+	<plugin version="1203" minimumframeworkversion="40" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1203.dpk" production="true" />
+	<plugin version="1204" minimumframeworkversion="40" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1204.dpk" production="true" />
+	<plugin version="1205" minimumframeworkversion="40" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1205.dpk" production="true" />
+	<plugin version="1206" minimumframeworkversion="40" url="https://seaneliasson.github.io/Disa.Framework.WhatsApp.Mobile-1206.dpk" production="true" />
 </plugins>
